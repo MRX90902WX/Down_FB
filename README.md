@@ -3,7 +3,7 @@ Descarga videos del Facebook con esta Script  ➡ INCLUYE CALIDAD ...✅
 
 #USO
 
-clonar rrepositorios
+clonar repositorio
 
 cd Down_FB
 
