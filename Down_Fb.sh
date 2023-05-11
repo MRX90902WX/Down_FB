@@ -19,7 +19,7 @@ echo ""
 setterm -foreground cyan
 figlet Down_Fb
 echo ""
-echo -e "           \e[1;37;41m#Code --𝔘𝔫𝔨𝔫𝔬𝔴𝔫----\e[0m"
+echo -e "          \e[1;37;41m#Code --𝔘𝔫𝔨𝔫𝔬𝔴𝔫----\e[0m"
 echo ""
 #MENÚ
 setterm -foreground green
